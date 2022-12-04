@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState,useEffect } from 'react';
 import { corrections } from './corrections';
 
 import './App.css';
@@ -29,6 +29,10 @@ function App() {
     else
     setText(data)
   }
+
+  useEffect(()=>{
+    alert("it works for only four words - ax, wierd, sceince, realy")
+  },[])
 
 
   return (
