@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-correction-app/static/css/main.532183cb.css",
+    "main.js": "/word-correction-app/static/js/main.5db3a209.js",
+    "index.html": "/word-correction-app/index.html",
+    "main.532183cb.css.map": "/word-correction-app/static/css/main.532183cb.css.map",
+    "main.5db3a209.js.map": "/word-correction-app/static/js/main.5db3a209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.532183cb.css",
+    "static/js/main.5db3a209.js"
+  ]
+}
